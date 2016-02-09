@@ -1,7 +1,8 @@
 # stockflare-test
 
 Steps to run the project
-1) You need to run 'StockFlare.xcworkspace' NOT 'StockFlare.xcodeproj'
+1) Download the project in .zip
+2) You need to run 'StockFlare.xcworkspace' NOT 'StockFlare.xcodeproj'
 3) Run the file using any simulator device
 4) Type in any stock name into the search bar (e.g 'Apple') and press 'search'
 5) Done!
